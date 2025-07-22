@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Roshan Binoj</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India with a strong foundation in web technologies and hands-on experience in AI and Machine Learning. I enjoy building scalable, user-centric applications and exploring the intersection of intelligent systems and modern software development.</h3>
+<h3 align="center">As an aspiring Full Stack Developer from India, I'm incredibly passionate about web technologies. I'm building a strong foundation in this area and actively exploring the exciting intersection of AI and Machine Learning with modern software development. My goal is to create scalable, user-centric applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanbinoj-iiitk&label=Profile%20views&color=0e75b6&style=flat" alt="roshanbinoj-iiitk" /> </p>
 
