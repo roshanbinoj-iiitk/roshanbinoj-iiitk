@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/roshanbinoj" target="blank"><img src="https://img.shields.io/twitter/follow/roshanbinoj?logo=twitter&style=for-the-badge" alt="roshanbinoj" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React Native an CI/CD**
 
 - 📫 How to reach me **roshanbinoj@gmail.com**
 
