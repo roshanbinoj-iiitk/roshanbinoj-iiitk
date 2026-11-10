@@ -58,7 +58,7 @@ and I like systems work in C++ and practical LLM pipelines. Based in Thiruvanant
 
 ## 🌱 Currently
 
-Learning CI/CD and building out TransitOps. Open to software internships.
+Building NetGuard a Linux network security engine. Open to software internships.
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=roshanbinoj-iiitk&theme=transparent&hide_border=true&layout=compact" alt="Top languages"/>
